@@ -3,7 +3,7 @@ title: 'RecordWeaver'
 layout: 'layouts/page.html'
 date: '2026-08-14'
 tags: ['game']
-thumbnail: '/images/game-images/recordweaver_thumb.png'
+thumbnail: '/images/games/recordweaver_thumb.png'
 thumbnailALT: 'RecordWeaver'
 extURL: 'https://ahill-a.itch.io/recordweaver'
 blurb: 'Experimental solo rpgcraft'

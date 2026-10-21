@@ -3,7 +3,7 @@ title: 'TeTrash'
 layout: 'layouts/page.html'
 date: '2026-08-15'
 tags: ['game', 'game-jam']
-thumbnail: '/images/game-images/tetrash_thumb.png'
+thumbnail: '/images/games/tetrash_thumb.png'
 thumbnailALT: 'Tetrash'
 extURL: 'https://ahill-a.itch.io/tetrash'
 blurb: 'Stack to Survive!'

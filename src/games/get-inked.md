@@ -3,7 +3,7 @@ title: 'Get Inked!'
 layout: 'layouts/page.html'
 date: '2026-08-10'
 tags: ['game']
-thumbnail: '/images/game-images/getinked_thumb.png'
+thumbnail: '/images/games/getinked_thumb.png'
 thumbnailALT: 'Get Inked!'
 extURL: 'https://pglick.itch.io/get-inked'
 blurb: 'FLASH SALE ALL TATTOOS IN 60 SEC OR LESS'

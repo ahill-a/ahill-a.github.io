@@ -3,7 +3,7 @@ title: 'Reef Painter'
 layout: 'layouts/page.html'
 date: '2026-08-11'
 tags: ['game']
-thumbnail: '/images/game-images/reefpainter_thumb.png'
+thumbnail: '/images/games/reefpainter_thumb.png'
 thumbnailALT: 'Reef Painter'
 extURL: 'https://raesuarez.itch.io/reef-painter'
 blurb: 'Help bring the temperature down to restore bleached corals.'

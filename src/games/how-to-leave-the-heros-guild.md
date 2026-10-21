@@ -3,7 +3,7 @@ title: "How to Leave the Hero's Guild"
 layout: 'layouts/page.html'
 date: '2026-08-13'
 tags: ['game']
-thumbnail: '/images/game-images/heroguild_thumb.png'
+thumbnail: '/images/games/heroguild_thumb.png'
 thumbnailALT: "How to Leave the Hero's Guild"
 extURL: 'https://ahill-a.itch.io/heroquit'
 blurb: 'If thou couldst just fill out one more form...'
