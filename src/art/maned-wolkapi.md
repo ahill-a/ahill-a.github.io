@@ -7,6 +7,7 @@ thumbnail: '/images/art/wolkapi/wolkapi_thumb.jpg'
 thumbnailALT: 'thumbnail of the maned wolkapi, a mystical creature with the head of an okapi'
 extURL: 'https://www.artstation.com/artwork/NGg4Z5'
 ---
+<h2>{{title}}</h2>
 
 <img src="/images/art/wolkapi/wolkapi_hero.jpg" alt="Maned wolkapi turnaround">
 

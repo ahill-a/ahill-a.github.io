@@ -9,7 +9,9 @@ extURL: 'https://ahill-a.itch.io/road'
 blurb: 'Forest Walking Simulator'
 ---
 
-<a href="https://ahill-a.itch.io/road" title="Forest Walking Simulator">Play on itch.io</a>
+<h2>{{title}}</h2>
+
+<a href="{{extURL}}" title="{{blurb}}" class="hvr-sweep-to-top">Play on itch.io</a>
 
 The Road Not Taken was created for my Creative Computation course at DePaul. 
 

@@ -7,6 +7,7 @@ thumbnail: '/images/art/vanship/vanship_thumb.jpg'
 thumbnailALT: 'thumbnail closeup of a vanship'
 extURL: 'https://www.artstation.com/artwork/4XPE0Y'
 ---
+<h2>{{title}}</h2>
 
 <img src="/images/art/vanship/vanship.jpg" alt="A vanship, a flying vehicle from the show Last Exile.">
 

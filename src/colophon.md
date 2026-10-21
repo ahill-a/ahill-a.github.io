@@ -2,6 +2,8 @@
 title: 'Colophon'
 layout: 'layouts/page.html'
 ---
+<h2>{{title}}</h2>
+
 ### Static Site Generator
 <a href="https://www.11ty.dev/" target="_blank">11ty version 1.3.6</a>
 

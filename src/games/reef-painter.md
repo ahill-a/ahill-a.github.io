@@ -8,8 +8,7 @@ thumbnailALT: 'Reef Painter'
 extURL: 'https://raesuarez.itch.io/reef-painter'
 blurb: 'Help bring the temperature down to restore bleached corals.'
 ---
-
-<a href="https://raesuarez.itch.io/reef-painter" title="Help bring the temperature down to restore bleached corals.">Play on itch.io</a>
+<h2>{{title}} <a href="{{extURL}}" title="{{blurb}}" class="hvr-sweep-to-top"> on itch.io</a></h2>
 
 Reef Painter was created for my Games With A Purpose Bootcamp course with my peers Rae Suarez and Aryan Shrivastava. In this game, the player is a hermit crab protecting their coral reef from rising ocean temperatures. By destroying trash found around the reef, the hermit crab gains magic energy that they use to cool water around a coral and bring color back to the reef. 
 

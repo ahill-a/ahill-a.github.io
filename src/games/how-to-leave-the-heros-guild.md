@@ -8,8 +8,7 @@ thumbnailALT: "How to Leave the Hero's Guild"
 extURL: 'https://ahill-a.itch.io/heroquit'
 blurb: 'If thou couldst just fill out one more form...'
 ---
-
-<a href="https://ahill-a.itch.io/heroquit" title="If thou couldst just fill out one more form...">Play on itch.io</a>
+<h2>{{title}} <a href="{{extURL}}" title="{{blurb}}" class="hvr-sweep-to-top subtext">Play on itch.io</a></h2>
 
 How to Leave the Hero's Guild is a short game made over spring break to teach myself how to use the fantasy console Pico-8. A
 fantasy console is software that acts like a retro console emulator, but the original physical console never existed. Pico-8 operates sort of as an "all-in-one" software, where you can code the game, create pixel art, and make sound effects and music all in the same space. 

@@ -2,6 +2,8 @@
 title: 'About'
 layout: 'layouts/page.html'
 ---
+<h2>{{title}}</h2>
+
 I am a Chicago-based game designer and artist currently pursing an
 MFA in game design at DePaul University. I received my BFA in game
 design from the Universtity of Wisconsin-Stout in 2022, and worked as

@@ -108,7 +108,7 @@ hr {
     margin-top: 1.5rem;
 }
 img {
-    margin-bottom: -4px;
+    width: 100%;
 }
 
 a {
@@ -228,7 +228,7 @@ textarea{
 }
 
 .postdate {
-    margin: 0;
+    margin: -0.5rem 0 -1rem;
     font-size: 0.8rem;
     font-weight: 400;
     color: #8f8f8f;
@@ -237,6 +237,7 @@ textarea{
 .subtext {
     font-size: 0.9rem;
     font-weight: 400;
+    display: inline;
 }
 
 .bi {

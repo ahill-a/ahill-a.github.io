@@ -7,6 +7,7 @@ thumbnail: '/images/art/whalebot/whalebot_thumb.jpg'
 thumbnailALT: 'whalebot thumbnail'
 extURL: 'https://www.artstation.com/artwork/6bZPb6'
 ---
+<h2>{{title}}</h2>
 
 <img src="/images/art/whalebot/whalebot.jpg" alt="Front and back render of Whalebot, a whale shaped vehicle with four wheels.">
 

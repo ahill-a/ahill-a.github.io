@@ -2,8 +2,8 @@
 {% extends "layouts/base.html" %}
 
 {% block content %}
-    <h2>{{ title | safe}}</h2>
         {% if isGallery %}
+        <h2>{{ title | safe}}</h2>
         {% set galleryURL = ['partials/', galleryType, '-feed.html'] | join %}
         <article>
             <div class="gallery-grid">
@@ -12,6 +12,7 @@
         </article>
         {% endif %}
         {% if isDevlog %}
+            <h2>{{ title | safe}}</h2>
             {% include "partials/devlog-feed.html" %}
         {% endif %}
         {{ content | safe }}

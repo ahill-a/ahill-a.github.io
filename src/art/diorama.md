@@ -7,6 +7,7 @@ thumbnail: '/images/art/diorama/diorama_thumb.jpg'
 thumbnailALT: 'thumbnail closeup of a 50s style dining table'
 extURL: 'https://www.artstation.com/artwork/o2zWQB'
 ---
+<h2>{{title}}</h2>
 
 <img src="/images/art/diorama/diorama.jpg" alt="3D diorama of a kitchen and attached dining room, styled in 50s kitsch.">
 
