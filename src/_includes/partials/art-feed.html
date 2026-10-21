@@ -1,0 +1,10 @@
+{% for art in collections.art | limit( feedLimit ) %}
+<div class="card">
+    <a href="{{art.url}}" class="zoom">
+        <div class="imgbox">
+            <img src="{{ art.data.thumbnail }}" alt="{{ art.data.thumbnailALT}}">
+        </div>
+        <p>{{ art.data.title }}</p>
+    </a>
+</div>
+{% endfor %}

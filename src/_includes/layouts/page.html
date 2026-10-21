@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+{% extends "layouts/base.html" %}
+
+{% block content %}
+    <h2>{{ title | safe}}</h2>
+        {% if isGallery %}
+        {% set galleryURL = ['partials/', galleryType, '-feed.html'] | join %}
+        <article>
+            <div class="gallery-grid">
+                {% include galleryURL %}
+            </div>
+        </article>
+        {% endif %}
+        {% if isDevlog %}
+            {% include "partials/devlog-feed.html" %}
+        {% endif %}
+        {{ content | safe }}
+{% endblock %}

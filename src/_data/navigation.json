@@ -1,0 +1,36 @@
+{
+	"items": [
+        {
+            "text": "Home",
+            "url": "/"
+		},
+		{
+			"text": "Games",
+			"url": "/games/",
+			"desc": "all games by or contributed to by me"
+		},
+        {
+			"text": "Devlogs",
+			"url": "/devlogs/"
+		},
+		{
+			"text": "Art",
+			"url": "/artwork/",
+			"desc": "3D models and concept art"
+		},
+		{
+			"text": "About",
+			"url": "/about/",
+			"desc": "about me and what I use"
+		},
+        {
+			"text": "Now",
+			"url": "/now/"
+		},
+		{
+			"text": "Contact",
+			"url": "/contact/",
+			"desc": " message me or find me elsewhere"
+		}
+	]
+}

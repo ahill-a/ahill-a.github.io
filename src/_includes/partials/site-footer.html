@@ -1,0 +1,15 @@
+<hr>
+<footer class="flex-horizontal">
+    <div>
+        &copy; 2026 - built with 11ty v1.3.6
+        <br>
+        {% for item in navigation.items %}
+        <a href="{{ item.url }}" {{ helpers.getLinkActiveState(item.url, page.url) | safe }}>{{ item.text }}</a> /
+        {% endfor %}
+    </div>
+    <div style="font-size: 1.4em;">
+        <a href="" class="no-underline"><i class="icon-linkedin"></i></a> 
+        <a href="" class="no-underline"><i class="icon-itch"></i></a> 
+        <a href="" class="no-underline"><i class="icon-artstation"></i></a>
+    </div>
+</footer>

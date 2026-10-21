@@ -1,0 +1,20 @@
+{% set currentUrl = page.url %}
+
+<header>
+    <div class="flex-horizontal baseline">
+        <h1>Abigail Hill</h1>
+        <p>Game Design and Digital Art</p>
+    </div>
+    {% if currentUrl === '/' %}
+    <p>
+        {{ intro.homepage }}
+    </p>
+    {% endif %}
+    <nav id="pagenav" class="flex-horizontal">
+        {% for item in navigation.items %}
+        {% if item.desc %}
+            <div><a href="{{ item.url }}" {{ helpers.getLinkActiveState(item.url, page.url) | safe }} class="hvr-sweep-to-top">{{ item.text }}</a> {{item.desc}}</div>
+        {% endif %}
+        {% endfor %}
+    </nav>
+</header>

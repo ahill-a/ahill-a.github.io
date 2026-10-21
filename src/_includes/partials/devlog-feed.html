@@ -1,0 +1,13 @@
+{% for post in collections.devlog | limit( feedLimit ) %}
+<article class="card">
+    <h3>{{ post.data.title }}</h3>
+    <p class="postdate">{{ post.data.date }}</p>
+    <p>
+        Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+        Aenean commodo ligula eget dolor. Aenean massa. Cum sociis
+        natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus.
+    </p>
+    <p class="text-right"><a href="/devlogs/" class="hvr-sweep-to-top">read more</a></p>
+</article>
+{% endfor %}
