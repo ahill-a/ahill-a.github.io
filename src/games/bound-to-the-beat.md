@@ -8,7 +8,7 @@ thumbnailALT: 'Bound to the Beat'
 extURL: 'https://matteovera.itch.io/bound-to-the-beat'
 blurb: 'Escape hell by competing in a rap battle'
 ---
-<h2>{{title}}</h2>
+<h2>{{title}} <a href="{{extURL}}" title="{{blurb}}" class="subtext itch">Play <i class="icon-itch"></i></a></h2>
 
 Submission to the GMTK Game Jam 2021
 

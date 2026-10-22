@@ -8,7 +8,7 @@ thumbnailALT: 'Birdco'
 extURL: 'https://hotdogboris.itch.io/birdco'
 blurb: 'Bird company simulator where you work for birds alongside birds doing...something.'
 ---
-<h2>{{title}}</h2>
+<h2>{{title}} <a href="{{extURL}}" title="{{blurb}}" class="subtext itch">Play <i class="icon-itch"></i></a></h2>
 
 Submission to the Brackeys Game Jam 2026.2
 

@@ -8,7 +8,7 @@ thumbnailALT: 'Last Legend'
 extURL: 'https://matteovera.itch.io/lastlegend'
 blurb: 'The old gods march on the city...'
 ---
-<h2>{{title}}</h2>
+<h2>{{title}} <a href="{{extURL}}" title="{{blurb}}" class="subtext itch">Play <i class="icon-itch"></i></a></h2>
 
 Submission to LOWREZJAM 2020
 

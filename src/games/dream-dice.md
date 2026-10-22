@@ -8,7 +8,7 @@ thumbnailALT: 'Dream Dice Dungeon'
 extURL: 'https://matteovera.itch.io/dream-dice-dungeon'
 blurb: 'Turn based dice strategy'
 ---
-<h2>{{title}}</h2>
+<h2>{{title}} <a href="{{extURL}}" title="{{blurb}}" class="subtext itch">Play <i class="icon-itch"></i></a></h2>
 
 Submission to the GMTK Game Jam 2022
 

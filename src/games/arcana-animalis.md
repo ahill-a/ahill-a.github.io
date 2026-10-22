@@ -8,7 +8,7 @@ thumbnailALT: 'Arcana Animalis'
 extURL: 'https://matteovera.itch.io/arcanaanimalis'
 blurb: 'Arcana Animalis'
 ---
-<h2>{{title}}</h2>
+<h2>{{title}} <a href="{{extURL}}" title="{{blurb}}" class="subtext itch">Play <i class="icon-itch"></i></a></h2>
 
 Submission to the GMTK Game Jam 2020
 

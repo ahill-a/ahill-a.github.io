@@ -8,7 +8,7 @@ thumbnailALT: 'Courier'
 extURL: 'https://matteovera.itch.io/courier'
 blurb: 'Deliver mail in a fantasy world'
 ---
-<h2>{{title}}</h2>
+<h2>{{title}} <a href="{{extURL}}" title="{{blurb}}" class="subtext itch">Play <i class="icon-itch"></i></a></h2>
 
 Submission to the College Game Jam 2021
 

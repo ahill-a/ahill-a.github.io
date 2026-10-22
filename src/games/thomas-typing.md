@@ -8,7 +8,7 @@ thumbnailALT: 'Thomas Teaches Touch Typing'
 extURL: 'https://matteovera.itch.io/thomas-teaches-touch-typing'
 blurb: "Learn how to type with Thomas the Turtle's 1 on 1 lessons"
 ---
-<h2>{{title}}</h2>
+<h2>{{title}} <a href="{{extURL}}" title="{{blurb}}" class="subtext itch">Play <i class="icon-itch"></i></a></h2>
 
 Submission to the GMTK Game Jam 2019
 
