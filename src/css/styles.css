@@ -128,6 +128,15 @@ a:active, .card > a:active > p{
     text-decoration-style: solid;
 }
 
+#noDeco {
+    text-decoration: none;
+    color:#000;
+}
+
+#noDeco:hover {
+    color: #000;
+}
+
 ul {
     list-style-type: none;
     padding-left: 1.5rem;
