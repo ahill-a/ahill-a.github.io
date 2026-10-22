@@ -11,3 +11,6 @@ blurb: "Learn how to type with Thomas the Turtle's 1 on 1 lessons"
 <h2>{{title}}</h2>
 
 Submission to the GMTK Game Jam 2019
+
+## My Roles
+2D Art 

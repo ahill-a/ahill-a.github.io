@@ -11,3 +11,6 @@ blurb: 'Bird company simulator where you work for birds alongside birds doing...
 <h2>{{title}}</h2>
 
 Submission to the Brackeys Game Jam 2026.2
+
+## My Roles
+3D modeling and texturing, animation, graphic design

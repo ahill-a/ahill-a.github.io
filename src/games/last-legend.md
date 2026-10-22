@@ -11,3 +11,6 @@ blurb: 'The old gods march on the city...'
 <h2>{{title}}</h2>
 
 Submission to LOWREZJAM 2020
+
+## My Roles
+Hero and monster sprites. 

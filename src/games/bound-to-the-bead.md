@@ -11,3 +11,6 @@ blurb: 'Escape hell by competing in a rap battle'
 <h2>{{title}}</h2>
 
 Submission to the GMTK Game Jam 2021
+
+## My Roles
+2D Art
