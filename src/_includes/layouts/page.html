@@ -3,13 +3,26 @@
 
 {% block content %}
         {% if isGallery %}
-        <h2>{{ title | safe}}</h2>
-        {% set galleryURL = ['partials/', galleryType, '-feed.html'] | join %}
-        <article>
-            <div class="gallery-grid">
-                {% include galleryURL %}
-            </div>
-        </article>
+            <h2>{{ title | safe}}</h2>
+            {% if galleryType == 'art' %}
+                <article>
+                    <div class="gallery-grid">
+                        {% include "partials/art-feed.html" %}
+                    </div>
+                </article>
+            {% elif galleryType == 'games' %}
+                <article>
+                    <div class="gallery-grid">
+                        {% include "partials/games-noJam-feed.html" %}
+                    </div>
+                </article>
+                <h2>Game Jam Entries</h2>
+                <article>
+                    <div class="gallery-grid">
+                        {% include "partials/games-jam-feed.html" %}
+                    </div>
+                </article>
+            {% endif %}
         {% endif %}
         {% if isDevlog %}
             <h2>{{ title | safe}}</h2>

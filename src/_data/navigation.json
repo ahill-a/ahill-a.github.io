@@ -9,10 +9,6 @@
 			"url": "/games/",
 			"desc": "all games by or contributed to by me"
 		},
-        {
-			"text": "Devlogs",
-			"url": "/devlogs/"
-		},
 		{
 			"text": "Art",
 			"url": "/artwork/",

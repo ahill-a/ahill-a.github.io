@@ -2,7 +2,7 @@
 title: 'Get Inked!'
 layout: 'layouts/page.html'
 date: '2026-08-10'
-tags: ['game']
+tags: ['game', 'uni']
 thumbnail: '/images/games/getinked_thumb.png'
 thumbnailALT: 'Get Inked!'
 extURL: 'https://pglick.itch.io/get-inked'

@@ -1,0 +1,10 @@
+{% for game in collections['game jam'] | reverse %}
+        <div class="card">
+            <a href="{{game.url}}" class="zoom">
+                <div class="imgbox">
+                    <img src="{{ game.data.thumbnail }}" alt="{{ game.data.thumbnailALT}}">
+                </div>
+                <p>{{ game.data.title }}</p>
+            </a>
+        </div>
+{% endfor %}

@@ -2,7 +2,7 @@
 title: 'The Road Not Taken'
 layout: 'layouts/page.html'
 date: '2026-08-12'
-tags: ['game']
+tags: ['game', 'uni']
 thumbnail: '/images/games/roadnot_thumb.png'
 thumbnailALT: 'The Road Not Taken'
 extURL: 'https://ahill-a.itch.io/road'

@@ -11,6 +11,7 @@ export default function (eleventyConfig) {
 	eleventyConfig.addCollection('games', (collection) => {
 		return [...collection.getFilteredByGlob('src/games/*.md')].reverse();
 	});
+
 	eleventyConfig.addCollection('devlog', (collection) => {
 		return [...collection.getFilteredByGlob('src/devlogs/*.md')].reverse();
 	});

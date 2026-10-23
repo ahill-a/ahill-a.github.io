@@ -2,7 +2,7 @@
 title: 'TeTrash'
 layout: 'layouts/page.html'
 date: '2026-08-15'
-tags: ['game', 'game-jam']
+tags: ['game', 'game jam', 'uni']
 thumbnail: '/images/games/tetrash_thumb.png'
 thumbnailALT: 'Tetrash'
 extURL: 'https://ahill-a.itch.io/tetrash'

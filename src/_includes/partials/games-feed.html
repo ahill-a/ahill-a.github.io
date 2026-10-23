@@ -1,10 +1,10 @@
 {% for game in collections.games | limit( feedLimit ) %}
-<div class="card">
-    <a href="{{game.url}}" class="zoom">
-        <div class="imgbox">
-            <img src="{{ game.data.thumbnail }}" alt="{{ game.data.thumbnailALT}}">
-        </div>
-        <p>{{ game.data.title }}</p>
-    </a>
-</div>
+    <div class="card">
+        <a href="{{game.url}}" class="zoom">
+            <div class="imgbox">
+                <img src="{{ game.data.thumbnail }}" alt="{{ game.data.thumbnailALT}}">
+            </div>
+            <p>{{ game.data.title }}</p>
+        </a>
+    </div>
 {% endfor %}

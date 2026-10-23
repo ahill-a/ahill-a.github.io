@@ -2,7 +2,7 @@
 title: 'RecordWeaver'
 layout: 'layouts/page.html'
 date: '2026-08-14'
-tags: ['game']
+tags: ['game', 'uni']
 thumbnail: '/images/games/recordweaver_thumb.png'
 thumbnailALT: 'RecordWeaver'
 extURL: 'https://ahill-a.itch.io/recordweaver'
