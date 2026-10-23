@@ -9,6 +9,12 @@ extURL: 'https://ahill-a.itch.io/recordweaver'
 blurb: 'Experimental solo rpgcraft'
 ---
 <h2>{{title}} <a href="{{extURL}}" title="{{blurb}}" class="subtext itch">Download <i class="icon-itch"></i></a></h2>
+<div class="flex-horizontal">
+<img src="/images/games/recordweaver_01.jpg" alt="Sample weaving creating by playing the game">
+<img src="/images/games/recordweaver_02.jpg" alt="Closeup of weaving patterns">
+</div>
+
+<img src="/images/games/recordweaver_03.png" alt="RecordWeaver instructions">
 
 RecordWeaver is a solo RPG and craft experiment created for my Art Games course. In this game, I experiment with artifact creation to leave a physical record of play. An introspective game meant to be played long term, prompts and a corresponding pattern are chosen with two D4 rolls. The yarn you pick signifies your answer, a personal meaning known only to you.
 

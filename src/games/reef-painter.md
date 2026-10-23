@@ -9,10 +9,13 @@ extURL: 'https://raesuarez.itch.io/reef-painter'
 blurb: 'Help bring the temperature down to restore bleached corals.'
 ---
 <h2>{{title}} <a href="{{extURL}}" title="{{blurb}}" class="subtext itch">Play <i class="icon-itch"></i></a></h2>
+<img src="/images/games/reefpainter_01.png" alt="Reef Painter gameplay">
 
 Reef Painter was created for my Games With A Purpose Bootcamp course with my peers Rae Suarez and Aryan Shrivastava. In this game, the player is a hermit crab protecting their coral reef from rising ocean temperatures. By destroying trash found around the reef, the hermit crab gains magic energy that they use to cool water around a coral and bring color back to the reef. 
 
 Games With A Purpose Bootcamp is a class dedicated to the field of serious games and the design framework of triadic game design, which we applied when developing Reef Painter. Triadic game design is a design framwork for developing serious games (games intended to have an impact on the real world) in which three "worlds" are given equal weight in the design process.
+
+<img src="/images/games/reefpainter_02.png" alt="Reef Painter instructions">
 
 These three worlds are:
 - Reality: the game contains a model representation of the real world grounded in the disciplines related to the game's subject

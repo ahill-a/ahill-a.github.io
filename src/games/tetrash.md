@@ -9,10 +9,13 @@ extURL: 'https://ahill-a.itch.io/tetrash'
 blurb: 'Stack to Survive!'
 ---
 <h2>{{title}} <a href="{{extURL}}" title="{{blurb}}" class="subtext itch">Play <i class="icon-itch"></i></a></h2>
+<img src="/images/games/tetrash_01.jpg" alt="TeTrash main menu">
 
 Tetrash is an arcade survival game created with students at Trident College of Computing in Nagoya Japan as part of my study abroad experience. Together with fellow DePaul student Nolan and Trident students Ryo, Hein, and Aoto, we created a trash stacking game where the player controls a compactor robot to collect trash and create cubes to avoid falling into a garbage shredder. 
 
 This game was created in about 30 hours spread over 3 days. It was a new challenge working with teammates across a language barrier, but it was also very rewarding creating something together. At the end of the creation period, the games were presented to and judged by faculty from DePaul and Trident, with our game recieving the Overall Excellence award!
+
+<img src="/images/games/tetrash_02.jpg" alt="TeTrash gameplay">
 
 ## My Roles
 ### Game Design

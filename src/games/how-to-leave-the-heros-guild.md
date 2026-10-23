@@ -9,13 +9,19 @@ extURL: 'https://ahill-a.itch.io/heroquit'
 blurb: 'If thou couldst just fill out one more form...'
 ---
 <h2>{{title}} <a href="{{extURL}}" title="{{blurb}}" class="subtext itch">Play <i class="icon-itch"></i></a></h2>
+<img src="/images/games/heroguild_01.gif" alt="How to Leave the Hero's Guild main menu">
 
 How to Leave the Hero's Guild is a short game made over spring break to teach myself how to use the fantasy console Pico-8. A
 fantasy console is software that acts like a retro console emulator, but the original physical console never existed. Pico-8 operates sort of as an "all-in-one" software, where you can code the game, create pixel art, and make sound effects and music all in the same space. 
 
+<img src="/images/games/heroguild_02.gif" alt="How to Leave the Hero's Guild gameplay">
+
+
 In How to Leave the Hero's Guild, the player controls the Hero, who, after many years performing heroic deeds and defeating the Demon Lord, must now navigate the perpexingly complicated bureaucracy of the Hero's Guild in order to retire. 
 
 The original concept for this game started as an in-class activity designing a game mechanic around a "dark pattern" of interface design. For my mechanic I used the dark pattern of "hard to cancel" recontextualied in a fantasy setting and guild membership. This idea spoke to me and I decided to expand upon it over spring break. 
+
+<img src="/images/games/heroguild_03.gif" alt="How to Leave the Hero's Guild end screen">
 
 ## My Roles
 ### Game Design
