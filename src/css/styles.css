@@ -255,10 +255,14 @@ textarea{
 }
 
 .postdate {
-    margin: -0.5rem 0 -1rem;
-    font-size: 0.8rem;
+    margin: 0.2rem 0 0;
+    font-size: 0.9rem;
     font-weight: 400;
     color: #8f8f8f;
+}
+
+article:not(.card) > .postdate {
+    margin: -1.2rem 0 0;
 }
 
 .subtext {

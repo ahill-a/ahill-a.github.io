@@ -15,6 +15,10 @@
 			"desc": "3D models and concept art"
 		},
 		{
+			"text": "Devlogs",
+			"url": "/devlogs/"
+		},
+		{
 			"text": "About",
 			"url": "/about/",
 			"desc": "about me and what I use"
