@@ -7,8 +7,8 @@ thumbnail: '/images/games/getinked_thumb.webp'
 thumbnailALT: 'Get Inked!'
 extURL: 'https://pglick.itch.io/get-inked'
 blurb: 'FLASH SALE ALL TATTOOS IN 60 SEC OR LESS'
+itch: '<a href="{{extURL}}" title="{{blurb}}" class="subtext itch">Play <i class="icon-itch"></i></a>'
 ---
-<h2>{{title}} <a href="{{extURL}}" title="{{blurb}}" class="subtext itch">Play <i class="icon-itch"></i></a></h2>
 <a href="/images/games/getinked_01.webp" target="_blank"><img src="/images/games/getinked_01.webp" alt="Get Inked! main menu"></a>
 
 Get Inked! was created in about 10 weeks for my Game Design Workshop class at Depaul alongside Peri Glick and Aryan Shrivastava. We were tasked with creating a game with one minute of engaging play.

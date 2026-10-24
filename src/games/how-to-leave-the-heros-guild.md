@@ -7,8 +7,8 @@ thumbnail: '/images/games/heroguild_thumb.webp'
 thumbnailALT: "How to Leave the Hero's Guild"
 extURL: 'https://ahill-a.itch.io/heroquit'
 blurb: 'If thou couldst just fill out one more form...'
+itch: '<a href="{{extURL}}" title="{{blurb}}" class="subtext itch">Play <i class="icon-itch"></i></a>'
 ---
-<h2>{{title}} <a href="{{extURL}}" title="{{blurb}}" class="subtext itch">Play <i class="icon-itch"></i></a></h2>
 <a href="/images/games/heroguild_01.gif" target="_blank"><img src="/images/games/heroguild_01.gif" alt="How to Leave the Hero's Guild main menu"></a>
 
 How to Leave the Hero's Guild is a short game made over spring break to teach myself how to use the fantasy console Pico-8. A

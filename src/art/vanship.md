@@ -7,8 +7,6 @@ thumbnail: '/images/art/vanship/vanship_thumb.jpg'
 thumbnailALT: 'thumbnail closeup of a vanship'
 extURL: 'https://www.artstation.com/artwork/4XPE0Y'
 ---
-<h2>{{title}}</h2>
-
 <img src="/images/art/vanship/vanship.jpg" alt="A vanship, a flying vehicle from the show Last Exile.">
 
 I created this model for my hard surface modeling class. The objective for this project was to model and texture aa vehicle from a reference vehicle. I chose to model a vanship from the anime series Last Exile, specifically the vanship belonging to the character Tatiana due to its distinct color scheme. 

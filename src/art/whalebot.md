@@ -7,8 +7,6 @@ thumbnail: '/images/art/whalebot/whalebot_thumb.jpg'
 thumbnailALT: 'whalebot thumbnail'
 extURL: 'https://www.artstation.com/artwork/6bZPb6'
 ---
-<h2>{{title}}</h2>
-
 <img src="/images/art/whalebot/whalebot.jpg" alt="Front and back render of Whalebot, a whale shaped vehicle with four wheels.">
 
 The Whalebot was a model created and designed for my bachelor capstone project "Duolbots." Duolbots is a multiplayer vehicle fighting game where you choose various weapons and utilites to attach to a vehicle of your choice. As a group, we decided to base all of our vehicles on animals, and I landed on a whale for my design. The goal was to create something playful and toy-like. 

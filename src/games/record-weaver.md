@@ -7,8 +7,8 @@ thumbnail: '/images/games/recordweaver_thumb.webp'
 thumbnailALT: 'RecordWeaver'
 extURL: 'https://ahill-a.itch.io/recordweaver'
 blurb: 'Experimental solo rpgcraft'
+itch: '<a href="{{extURL}}" title="{{blurb}}" class="subtext itch">Download <i class="icon-itch"></i></a>'
 ---
-<h2>{{title}} <a href="{{extURL}}" title="{{blurb}}" class="subtext itch">Download <i class="icon-itch"></i></a></h2>
 <div class="flex-horizontal">
 <a href="/images/games/recordweaver_01.webp" target="_blank"><img src="/images/games/recordweaver_01.webp" alt="Sample weaving creating by playing the game" style="height:100%"></a>
 <a href="/images/games/recordweaver_02.webp" target="_blank" ><img src="/images/games/recordweaver_02.webp" alt="Closeup of weaving patterns" style="height:100%"></a>

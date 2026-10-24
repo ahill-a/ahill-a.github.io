@@ -7,8 +7,6 @@ thumbnail: '/images/art/wolkapi/wolkapi_thumb.jpg'
 thumbnailALT: 'thumbnail of the maned wolkapi, a mystical creature with the head of an okapi'
 extURL: 'https://www.artstation.com/artwork/NGg4Z5'
 ---
-<h2>{{title}}</h2>
-
 <img src="/images/art/wolkapi/wolkapi_hero.jpg" alt="Maned wolkapi turnaround">
 
 The brief for this project was to design a fictional creature by taking traits from existing animals and combining them into a new animal. The goal of the final drawing was to draw this creature in perspective from a front 3/4 view and a back 3/4 view. My final design is the Maned Wolkapi: a creature that is a mix of the maned wolf and the okapi.

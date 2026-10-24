@@ -7,8 +7,6 @@ thumbnail: '/images/art/diorama/diorama_thumb.jpg'
 thumbnailALT: 'thumbnail closeup of a 50s style dining table'
 extURL: 'https://www.artstation.com/artwork/o2zWQB'
 ---
-<h2>{{title}}</h2>
-
 <img src="/images/art/diorama/diorama.jpg" alt="3D diorama of a kitchen and attached dining room, styled in 50s kitsch.">
 
 A dining room diorama I created for my hard surfaces modeling class. There were a couple restrictions for this project in the way of certain pieces we had to include (a table, cutlery) but otherwise we were free to design the diorama as we liked. For my dining room, I was inspired by late 50s and early 60s kitchen design, namely the color sheme and shape language. I consulted vintage advertisements and preserved examples to build a reference library, but unfortunately I have lost those files so I can't include them here.

@@ -30,7 +30,7 @@
         {% endif %}
         {% if not isDevlog and not isGallery %}
         <article>
-            <h2>{{ title | safe}}</h2>
+            <h2>{{ title | safe}} {{itch |safe}}</h2>
             <p class="postdate">{{date | safe}}</p>
             {{ content | safe }}
         </article>

@@ -7,8 +7,6 @@ thumbnail: '/images/art/juggler/stellar_juggler_thumb.jpg'
 thumbnailALT: 'stellar juggler headshot'
 extURL: 'https://www.artstation.com/artwork/Vya1GX'
 ---
-<h2>{{title}}</h2>
-
 <img src="/images/art/juggler/stellar_juggler.jpg" alt="Stellar juggler full-body turnaround with six emotion headshots">
 
 For this project, I had to first design a character with a theme and a job, and then create a character sheet with a rendered full-body front, a full-body back, and six expressions. My character is a member of a juggling troupe with a starry theme. 
