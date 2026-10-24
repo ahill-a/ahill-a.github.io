@@ -3,19 +3,19 @@ title: 'Reef Painter'
 layout: 'layouts/page.html'
 date: '2026-08-11'
 tags: ['game', 'uni']
-thumbnail: '/images/games/reefpainter_thumb.png'
+thumbnail: '/images/games/reefpainter_thumb.webp'
 thumbnailALT: 'Reef Painter'
 extURL: 'https://raesuarez.itch.io/reef-painter'
 blurb: 'Help bring the temperature down to restore bleached corals.'
 ---
 <h2>{{title}} <a href="{{extURL}}" title="{{blurb}}" class="subtext itch">Play <i class="icon-itch"></i></a></h2>
-<img src="/images/games/reefpainter_01.png" alt="Reef Painter gameplay">
+<a href="/images/games/reefpainter_01.webp" target="_blank"><img src="/images/games/reefpainter_01.webp" alt="Reef Painter gameplay"></a>
 
 Reef Painter was created for my Games With A Purpose Bootcamp course with my peers Rae Suarez and Aryan Shrivastava. In this game, the player is a hermit crab protecting their coral reef from rising ocean temperatures. By destroying trash found around the reef, the hermit crab gains magic energy that they use to cool water around a coral and bring color back to the reef. 
 
 Games With A Purpose Bootcamp is a class dedicated to the field of serious games and the design framework of triadic game design, which we applied when developing Reef Painter. Triadic game design is a design framwork for developing serious games (games intended to have an impact on the real world) in which three "worlds" are given equal weight in the design process.
 
-<img src="/images/games/reefpainter_02.png" alt="Reef Painter instructions">
+<a href="/images/games/reefpainter_02.webp" target="_blank"><img src="/images/games/reefpainter_02.webp" alt="Reef Painter instructions"></a>
 
 These three worlds are:
 - Reality: the game contains a model representation of the real world grounded in the disciplines related to the game's subject
@@ -34,5 +34,16 @@ While designing the core gameplay, we struggled with tying fun gameplay with rea
 ### Art
 Early on in development, my team agreed on a 3D environment with 2D sprites. I created sprite artwork for the crab and trash pieces, as well as UI elemetns for energy and temperature. I also made a seamless sandy ground texture.
 
+<div class="flex-horizontal flex-center">
+<a href="/images/games/reefpainter_04.gif" target="_blank"><img src="/images/games/reefpainter_04.gif" alt="Hermit crab celebration"></a>
+<a href="/images/games/reefpainter_05.gif" target="_blank"><img src="/images/games/reefpainter_05.gif" alt="Full energy meter"></a>
+</div>
+
 ### Shader Creation
 I used Unity's shader graph feature to create a shader for the coral that showed bleaching progress. It essentially functions like a vertial progress bar, and the percentage "filled" with color can be accessed and changed by a script. 
+
+<div class="flex-horizontal">
+<a href="/images/games/reefpainter_06.webp" target="_blank"><img src="/images/games/reefpainter_06.webp" alt="Mostly bleached coral"></a>
+<a href="/images/games/reefpainter_07.webp" target="_blank"><img src="/images/games/reefpainter_07.webp" alt="Mostly restored coral"></a>
+</div>
+<a href="/images/games/reefpainter_08.webp" target="_blank"><img src="/images/games/reefpainter_08.webp" alt="Coral shader graph"></a>

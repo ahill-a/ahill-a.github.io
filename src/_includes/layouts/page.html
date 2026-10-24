@@ -28,5 +28,7 @@
             <h2>{{ title | safe}}</h2>
             {% include "partials/devlog-feed.html" %}
         {% endif %}
-        {{ content | safe }}
+        <article>
+            {{ content | safe }}
+        </article>
 {% endblock %}

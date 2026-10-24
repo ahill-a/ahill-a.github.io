@@ -9,11 +9,11 @@ extURL: 'https://matteovera.itch.io/dream-dice-dungeon'
 blurb: 'Turn based dice strategy'
 ---
 <h2>{{title}} <a href="{{extURL}}" title="{{blurb}}" class="subtext itch">Play <i class="icon-itch"></i></a></h2>
-<img src="/images/games/dreamdice_01.png" alt="Dream Dice Dungeon main menu">
+<a href="/images/games/dreamdice_01.webp" target="_blank"><img src="/images/games/dreamdice_01.webp" alt="Dream Dice Dungeon main menu"></a>
 <div class="flex-horizontal">
-<img src="/images/games/dreamdice_02.png" alt="Squire of Stone battle">
-<img src="/images/games/dreamdice_03.png" alt="Princess of Pearls battle">
-<img src="/images/games/dreamdice_04.png" alt="Queen of Dreams battle">
+<a href="/images/games/dreamdice_02.webp" target="_blank"><img src="/images/games/dreamdice_02.webp" alt="Squire of Stone battle"></a>
+<a href="/images/games/dreamdice_03.webp" target="_blank"><img src="/images/games/dreamdice_03.webp" alt="Princess of Pearls battle"></a>
+<a href="/images/games/dreamdice_04.webp" target="_blank"><img src="/images/games/dreamdice_04.webp" alt="Queen of Dreams battle"></a>
 </div>
 
 Submission to the GMTK Game Jam 2022
