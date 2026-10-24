@@ -29,10 +29,12 @@
             {% include "partials/devlog-feed.html" %}
         {% endif %}
         {% if not isDevlog and not isGallery %}
-        <h2>{{ title | safe}} {{itch |safe}}</h2>
-        <p class="postdate">{{date | safe}}</p>
-        <article>
-            {{ content | safe }}
-        </article>
+            <h2>{{ title | safe}} {{itch |safe}}</h2>
+            {% if date %}
+            <p class="postdate">{{date | safe}}</p>
+            {% endif %}
+            <article>
+                {{ content | safe }}
+            </article>
         {% endif %}
 {% endblock %}
