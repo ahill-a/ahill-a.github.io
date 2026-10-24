@@ -9,3 +9,6 @@ layout: 'layouts/page.html'
 <p>Font: <a href="https://fonts.google.com/specimen/Neuton?preview.script=Latn" target="_blank">Neuton <i class="icon-external"></i></a> by Brian Zick</p>
 <p>Link Hover Effect: <a href="https://ianlunn.github.io/Hover/" target="_blank">hover.css <i class="icon-external"></i></a></p>
 <p>Icons: <a href="https://fontawesome.com/" target="_blank">fontawesome <i class="icon-external"></i></a></p>
+
+### Additional Help
+<p>Email Spam Protection Tips: <a href="https://spencermortensen.com/articles/email-obfuscation/" target="_blank"> Spencer Mortensen <i class="icon-external"></i></a></p>
