@@ -261,7 +261,7 @@ textarea{
     color: #8f8f8f;
 }
 
-article:not(.card) > .postdate {
+:not(.card) > .postdate {
     margin: -1.2rem 0 1rem;
 }
 
@@ -288,6 +288,11 @@ article:not(.card) > .postdate {
 
 .no-underline {
     text-decoration: none;
+}
+
+.caption {
+    font-size: 0.9rem;
+    margin: -.7rem 0 1rem;
 }
 
 /* Sweep To Top */
