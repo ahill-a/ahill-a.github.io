@@ -3,7 +3,7 @@ title: 'Dream Dice Dungeon'
 layout: 'layouts/page.html'
 date: '2021-07-17'
 tags: ['game', 'game jam']
-thumbnail: '/images/games/dreamdice_thumb.png'
+thumbnail: '/images/games/dreamdice_thumb.webp'
 thumbnailALT: 'Dream Dice Dungeon'
 extURL: 'https://matteovera.itch.io/dream-dice-dungeon'
 blurb: 'Turn based dice strategy'
