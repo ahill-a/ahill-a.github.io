@@ -4,7 +4,8 @@
         &copy; 2026 - built with 11ty v1.3.6
         <br>
         {% for item in navigation.items %}
-        <a href="{{ item.url }}" {{ helpers.getLinkActiveState(item.url, page.url) | safe }}>{{ item.text }}</a> /
+        <a href="{{ item.url }}" {{ helpers.getLinkActiveState(item.url, page.url) | safe }}>{{ item.text }}</a>
+        {% if not loop.last %} / {% endif %}
         {% endfor %}
     </div>
     <div style="font-size: 1.4em;">
