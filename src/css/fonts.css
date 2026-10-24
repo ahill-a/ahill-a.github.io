@@ -91,3 +91,14 @@
 .icon-linkedin:before {
   content: "\e906";
 }
+.icon-email::before {
+  content: "\e908";
+}
+.icon-external::before {
+  content: "\e907";
+}
+
+.icon-external {
+  font-size: 0.8rem;
+  vertical-align: baseline;
+}

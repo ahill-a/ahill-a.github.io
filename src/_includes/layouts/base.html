@@ -8,6 +8,9 @@
         <link rel="stylesheet" type="text/css" href="/css/styles.css">   
 
 		<title>{{ title }}</title>
+        {% if script %}
+            {{ script | safe }}
+        {% endif %}
 	</head>
 	<body class="home">
         <div class="container">

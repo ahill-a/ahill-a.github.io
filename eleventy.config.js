@@ -4,6 +4,7 @@ export default function (eleventyConfig) {
 	// Set directories to pass through to the dist folder
 	eleventyConfig.addPassthroughCopy('src/images');
 	eleventyConfig.addPassthroughCopy('src/css');
+	eleventyConfig.addPassthroughCopy('src/scripts');
 	
 	eleventyConfig.addCollection('art', (collection) => {
 		return [...collection.getFilteredByGlob('src/art/*.md')].reverse();

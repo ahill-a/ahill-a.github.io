@@ -1,7 +1,7 @@
 ---
 title: 'Now'
 layout: 'layouts/page.html'
-itch: '<span class="subtext"><a href="https://nownownow.com/about" target="_blank" class="hvr-sweep-to-top">what&apos;s this? <i class="bi bi-box-arrow-up-right"></i></a></span>'
+itch: '<span class="subtext"><a href="https://nownownow.com/about" target="_blank" class="hvr-sweep-to-top">what&apos;s this? <i class="icon-external"></i></a></span>'
 ---
 <p class="postdate">Last updated: Aug. 2026</p>
 
