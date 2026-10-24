@@ -2,10 +2,8 @@
 title: 'Colophon'
 layout: 'layouts/page.html'
 ---
-<h2>{{title}}</h2>
-
 ### Static Site Generator
-<a href="https://www.11ty.dev/" target="_blank">11ty version 1.3.6</a>
+<a href="https://www.11ty.dev/" target="_blank">11ty version 1.3.6 <i class="bi bi-box-arrow-up-right"></i></a>
 
 ### Styling
 <p>Font: <a href="https://fonts.google.com/specimen/Neuton?preview.script=Latn" target="_blank">Neuton <i class="bi bi-box-arrow-up-right"></i></a> by Brian Zick</p>

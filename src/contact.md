@@ -2,7 +2,6 @@
 title: 'Contact'
 layout: 'layouts/page.html'
 ---
-<h2>{{title}}</h2>
 <div class="flex-horizontal" id="contact">
     <section class="flex-vertical" style="gap:0.5rem;">
         <a href="https://www.linkedin.com/in/ahill-a/" target="_blank" class="hvr-sweep-to-top"><i class="icon-linkedin"></i> linkedin <i class="bi bi-box-arrow-up-right"></i></a>
