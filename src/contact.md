@@ -1,14 +1,14 @@
 ---
 title: 'Contact'
 layout: 'layouts/page.html'
-script: '<script src="link-conversion.js" defer></script>'
+script: '<script src="/scripts/link-conversion.js" defer></script>'
 ---
 <div class="flex-horizontal" id="contact">
     <section class="flex-vertical" style="gap:0.5rem;">
         <a href="https://www.linkedin.com/in/ahill-a/" target="_blank" class="hvr-sweep-to-top"><i class="icon-linkedin"></i> linkedin <i class="bi bi-box-arrow-up-right"></i></a>
         <a href="https://ahill-a.itch.io/" target="_blank" class="hvr-sweep-to-top"><i class="icon-itch"></i> itch.io <i class="bi bi-box-arrow-up-right"></i></a>
         <a href="https://ahill_a.artstation.com/" target="_blank" class="hvr-sweep-to-top"><i class="icon-artstation"></i> artstation <i class="bi bi-box-arrow-up-right"></i></a>
-        <a id="link-conversion" rel="nofollow, noindex" href="to-email-ahh-home/" class="hvr-sweep-to-top"><i class="icon-email"></i> ahh.ho<span style="display:none;">dsaldjsf jla</span>me@wi.rr.com</a>
+        <a id="link-conversion" rel="nofollow, noindex" href="toahh-home$/" class="hvr-sweep-to-top"><i class="icon-email"></i> ahh.ho<span style="display:none;">spam protect</span>me@wi.rr.com</a>
     </section>
     <!-- <section>
         <h3>Send me a message</h3>
