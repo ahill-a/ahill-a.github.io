@@ -20,33 +20,46 @@ body {
 .grid {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 0.1fr 0.1fr 0.1fr 0.1fr 0.1fr;
+    grid-template-rows: 0.1fr 0.1fr 0.1fr;
     grid-template-areas:
         "header header header"
         "body body img"
-        "nav nav img"
-        "gallery gallery gallery"
-        "devlog devlog devlog";
+        "nav nav img";
+}
+
+.grid header {
+    grid-area: header;
+}
+
+.grid p {
+    grid-area: body;
+    margin-top: 0;
+}
+
+.grid nav {
+    grid-area: nav;
+}
+
+#splash {
+    width: 120%;   
+    height: auto;
+    align-self: flex-end;
+    margin-bottom: -4rem;
+    grid-area: img;
+    transform: rotate(10deg);
 }
 
 header {
     flex-wrap: wrap;
     align-items: baseline;
-    grid-area: header;
 }
 
 header h1 {
-    margin-bottom: -2rem;
+    margin-bottom:-2rem;
 }
 
-#body {
-    grid-area: body;
-    margin-top:0;
-}
-
-#homenav {
-    margin-bottom: 1.5rem;
-    grid-area: nav;
+#homepage {
+    display: flex;
 }
 
 #pagenav {
@@ -89,23 +102,6 @@ nav a {
 .flex-vertical {
     display: flex;
     flex-direction: column;
-}
-
-#splash {
-    width: 100%;   
-    height: auto;
-    transform: scalex(-1);
-    grid-area: img;
-    align-self: flex-end;
-    margin-bottom: -2rem;
-}
-
-#latest-gal {
-    grid-area: gallery;
-}
-
-#latest-dev {
-    grid-area: devlog;
 }
 
 footer {
@@ -339,4 +335,23 @@ textarea{
 .hvr-sweep-to-top:hover:before, .hvr-sweep-to-top:focus:before, .hvr-sweep-to-top:active:before, a:hover p:before{
   -webkit-transform: scaleY(1);
   transform: scaleY(1);
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+        overflow: hidden;
+    }
+}
+
+@media only screen and (max-width: 520px) {
+    body {
+        margin: 0 10px;
+    }
+    .container {
+        margin: 0;
+        width: 100mvw;
+    }
+    #splash {
+        margin-left: -2rem;
+    }
 }
