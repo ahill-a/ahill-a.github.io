@@ -377,7 +377,4 @@ textarea{
         flex-direction: column;
         gap: 0.5rem;
     }
-    footer div:last-of-type {
-        align-self: flex-end;
-    }
 }
