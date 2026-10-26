@@ -31,6 +31,8 @@ Mechanics and overall gameplay design.
 
 Early versions of this game had a more technical aspect to it with players encoding data in a more literal sense, with responses translated to binary patterns. After collecting player responses during playtesting, I decided a more metaphorical approach was appropriate for the reflective experience I wanted to create.
 
+You can view the prototype <a href="https://ahill-a.github.io/weaveprototype/" target="_blank">here.</a>
+
 <a href="/images/games/recordweaver_08.webp" target="_blank" ><img src="/images/games/recordweaver_08.webp" alt="Javascript-based playtest interface"></a>
 <a href="/images/games/recordweaver_09.webp" target="_blank" ><img src="/images/games/recordweaver_09.webp" alt="Playtest using four colors as warp with a single color weft."></a>
 <a href="/images/games/recordweaver_10.webp" target="_blank" ><img src="/images/games/recordweaver_10.webp" alt="Playtest using freely placeable 8-tile high and 4-tile high patterns"></a>
