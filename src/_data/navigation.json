@@ -16,7 +16,8 @@
 		},
 		{
 			"text": "Devlogs",
-			"url": "/devlogs/"
+			"url": "/devlogs/",
+			"desc": "progress logs and postmortems"
 		},
 		{
 			"text": "About",

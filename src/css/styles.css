@@ -355,3 +355,29 @@ textarea{
         margin-left: -2rem;
     }
 }
+
+@media only screen and (max-width: 450px) {
+    .grid {
+       grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: 0.1fr 0.1fr 0.1fr;
+        grid-template-areas:
+        "header header header"
+        "body body body"
+        "nav nav img"; 
+    }
+    header div:first-of-type {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+    #splash {
+        margin-bottom: -3.5rem;
+        margin-left: -1.2rem;
+    }
+    footer {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+    footer div:last-of-type {
+        align-self: flex-end;
+    }
+}
