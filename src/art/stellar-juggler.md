@@ -19,5 +19,5 @@ Her clothing is based on Indian cultural clothing, particularly women's dhoti su
 
 For her juggling batons, I found this really neat website from the [Museum of Juggling History](https://historicaljugglingprops.com/) which has galleries of historical juggling props. My concepts explore different textures and sizes. I landed on a bell shape that provides a baton-like silhouette while continuing the star motif in the openings of the smaller bells attached. Additionally, the metallic material of the bell allows the golden accent color to carry over to the baton.
 
-### Software Used
+## Software Used
 - Adobe Photoshop

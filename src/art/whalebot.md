@@ -28,7 +28,7 @@ The first concept for Whalebot had a much more sailboat-like design. It's here t
 
 I developed Whalebot further to look less reminiscent of a real vehicle. I iterated on the shape of Whalebot to strike a balance between blocky silhouette and visual interest.
 
-### Software Used
+## Software Used
 - Autodesk Maya
 - Adobe Photoshop
 - Adobe Substance Painter

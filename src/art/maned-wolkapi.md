@@ -19,5 +19,5 @@ THe first thing I did for this project was to do a few studies of real animals t
 
 After doing some studies, I moved on to creating concepts of different creatures. Each one is created by combining the traits of at least two animals. I chose the first concept in this image to turn into a perspective drawing. This process involved using the side-view image as scaffolding to create volume for the perspective drawing.
 
-### Software Used
+## Software Used
 - Adobe Photoshop

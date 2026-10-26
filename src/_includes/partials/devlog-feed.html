@@ -1,8 +1,8 @@
 {% for devlog in collections.devlog | limit( feedLimit ) %}
-<article class="card">
-    <h3>{{ devlog.data.title }}</h3>
-    <p class="postdate">{{ devlog.data.date }}</p>
-    {{devlog.content | safe | truncate(200)}}
-    <p class="text-right"><a href="{{devlog.url}}"class="hvr-sweep-to-top">read more</a></p>
-</article>
+    <article class="card">
+        <h2>{{ devlog.data.title }}</h2>
+        <p class="postdate">{{ devlog.data.date }}</p>
+        {{devlog.content | safe | truncate(200)}}
+        <p class="text-right"><a href="{{devlog.url}}"class="hvr-sweep-to-top">read more</a></p>
+    </article>
 {% endfor %}

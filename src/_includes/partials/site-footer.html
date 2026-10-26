@@ -2,15 +2,16 @@
 <footer class="flex-horizontal">
     <div>
         &copy; 2026 - built with 11ty v1.3.6
-        <br>
+        <nav id="footer-navigation">
         {% for item in navigation.items %}
         <a href="{{ item.url }}" {{ helpers.getLinkActiveState(item.url, page.url) | safe }}>{{ item.text }}</a>
         {% if not loop.last %} / {% endif %}
         {% endfor %}
+        </nav>
     </div>
-    <div style="font-size: 1.4em;">
+    <nav id="footer-social-media" style="font-size: 1.4em;">
         <a href="https://www.linkedin.com/in/ahill-a/" target="_blank" class="no-underline"><i class="icon-linkedin"></i></a> 
         <a href="https://ahill-a.itch.io/" target="_blank" class="no-underline"><i class="icon-itch"></i></a> 
         <a href="https://ahill_a.artstation.com/" target="_blank" class="no-underline"><i class="icon-artstation"></i></a>
-    </div>
+    </nav>
 </footer>

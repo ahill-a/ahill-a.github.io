@@ -31,7 +31,7 @@ Most of the base color was made with built-in textures from Substance Painter wi
 The graphic on the vanship is official art edited by me. I found an image of the crest from a fan wiki and painted over it to
 produce a high resolution image, as only very small size images were available online.
 
-### Software Used
+## Software Used
 - Autodesk Maya
 - Adobe Photoshop
 - Adobe Substance Painter

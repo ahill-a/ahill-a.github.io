@@ -43,7 +43,7 @@ The base color for these was hand painted in Photoshop.
 <a href="/images/art/diorama/closeup_tv.jpg" target="_blank"><img src="/images/art/diorama/closeup_tv.jpg" alt="Closeup of the TV sitting on the kitchen counter."></a>
 <a href="/images/art/diorama/closeup_wall.jpg" target="_blank"><img src="/images/art/diorama/closeup_wall.jpg" alt="Closeup of the wall by the sink, showcasing the sticky notes on the fridge and a painting on the wall."></a>
 
-### Software Used
+## Software Used
 - Autodesk Maya
 - Adobe Photoshop
 - Adobe Substance Painter

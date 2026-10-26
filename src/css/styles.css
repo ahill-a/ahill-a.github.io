@@ -54,17 +54,22 @@ header {
     align-items: baseline;
 }
 
-header h1 {
-    margin-bottom:-2rem;
+h1 {
+    font-size: 1.7rem;
+    margin: 1rem 0;
 }
 
-#homepage {
-    display: flex;
+h2 {
+    font-size: 1.5rem;
+    margin-bottom: 0;
 }
 
-#pagenav {
-    margin: -0.5rem 0 1.5rem;
-    justify-content: space-between;
+.card h2 {
+    margin-top: 0;
+}
+
+h3 {
+    margin-bottom: 0;
 }
 
 nav {
@@ -75,6 +80,10 @@ nav a {
     font-size: 1.2rem;
     margin-right: 5px;
     text-transform: uppercase;
+}
+
+#header-navigation {
+    justify-content: space-between;
 }
 
 .flex-horizontal {
@@ -110,6 +119,13 @@ footer {
     align-items: flex-start;
 }
 
+#footer-navigation a {
+    margin: -0.5rem 0 1.5rem;
+    justify-content: space-between;
+    text-transform: none;
+    font-size: 0.9rem;
+}
+
 hr {
     border-style: dotted;
     border-width: 1px;
@@ -136,11 +152,11 @@ a {
     text-decoration-style: dotted;
 }
 
-a:not(.itch):visited {
+a:not(.itch, .headerLink):visited {
     color: #0000EE;
 }
 
-a:not(.hvr-sweep-to-top, .itch):hover {
+a:not(.hvr-sweep-to-top, .itch, .headerLink):hover {
     color: #5c97ff;
 }
 
@@ -148,12 +164,15 @@ a:active, .card > a:active > p{
     text-decoration-style: solid;
 }
 
-#noDeco {
+.headerLink {
     text-decoration: none;
     color:#000;
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom:-2rem;
 }
 
-#noDeco:hover {
+.headerLink:hover {
     color: #000;
 }
 
@@ -312,7 +331,7 @@ textarea{
 .hvr-sweep-to-top:before, a p:before {
   content: "";
   position: absolute;
-  z-index: -1;
+  z-index: -2;
   top: 0;
   left: 0;
   right: 0;
@@ -329,12 +348,25 @@ textarea{
   -webkit-transition-timing-function: ease-out;
   transition-timing-function: ease-out;
 }
-.hvr-sweep-to-top:hover, .hvr-sweep-to-top:focus, .hvr-sweep-to-top:active, a:hover p, .hvr-sweep-to-top:visited:hover {
+.hvr-sweep-to-top:hover, .hvr-sweep-to-top:active, a:hover p, .hvr-sweep-to-top:visited:hover {
   color: white;
 }
-.hvr-sweep-to-top:hover:before, .hvr-sweep-to-top:focus:before, .hvr-sweep-to-top:active:before, a:hover p:before{
+.hvr-sweep-to-top:hover:before, .hvr-sweep-to-top:active:before, a:hover p:before{
   -webkit-transform: scaleY(1);
   transform: scaleY(1);
+}
+
+@media (prefers-reduced-motion) {
+  .hvr-sweep-to-top:hover, .hvr-sweep-to-top:active, a:hover p, .hvr-sweep-to-top:visited:hover {
+    color: #5c97ff;
+    }
+    .hvr-sweep-to-top:hover:before, .hvr-sweep-to-top:active:before, a:hover p:before{
+    -webkit-transform: scaleY(0);
+    transform: scaleY(0);
+    }
+    .zoom:hover img {
+        transform: scale(1);
+    }
 }
 
 @media only screen and (max-width: 600px) {

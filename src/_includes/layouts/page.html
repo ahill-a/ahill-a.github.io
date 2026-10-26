@@ -3,7 +3,7 @@
 
 {% block content %}
         {% if isGallery %}
-            <h2>{{ title | safe}}</h2>
+            <h1>{{ title | safe}}</h1>
             {% if galleryType == 'art' %}
                 <article>
                     <div class="gallery-grid">
@@ -25,11 +25,11 @@
             {% endif %}
         {% endif %}
         {% if isDevlog %}
-            <h2>{{ title | safe}}</h2>
+            <h1>{{ title | safe}}</h1>
             {% include "partials/devlog-feed.html" %}
         {% endif %}
         {% if not isDevlog and not isGallery %}
-            <h2>{{ title | safe}} {{itch |safe}}</h2>
+            <h1>{{ title | safe}} {{itch |safe}}</h1>
             {% if date %}
             <p class="postdate">{{date | safe}}</p>
             {% endif %}
