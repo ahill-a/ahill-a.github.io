@@ -38,6 +38,7 @@ body {
 
 .grid nav {
     grid-area: nav;
+    gap: 0.3rem;
 }
 
 #splash {
@@ -397,13 +398,18 @@ textarea{
         "body body body"
         "nav nav img"; 
     }
-    header div:first-of-type {
+    #site-title {
         flex-direction: column;
-        gap: 0.5rem;
+        margin: 1rem 0;
+    }
+    #site-title p {
+        margin: 0;
+    }
+    .grid nav {
+        white-space: nowrap;
     }
     #splash {
-        margin-bottom: -3.5rem;
-        margin-left: -1.2rem;
+        display:none;
     }
     footer {
         flex-direction: column;
