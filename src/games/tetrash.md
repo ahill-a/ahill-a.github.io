@@ -7,7 +7,7 @@ thumbnail: '/images/games/tetrash_thumb.webp'
 thumbnailALT: 'Tetrash'
 extURL: 'https://ahill-a.itch.io/tetrash'
 blurb: 'Stack to Survive!'
-itch: '<a href="{{extURL}}" title="{{blurb}}" class="subtext itch">Play <i class="icon-itch"></i></a>'
+itch: '<a href="https://ahill-a.itch.io/tetrash" target="_blank" class="subtext itch">Play <i class="icon-itch"></i></a>'
 ---
 <a href="/images/games/tetrash_01.webp" target="_blank"><img src="/images/games/tetrash_01.webp" alt="TeTrash main menu"></a>
 

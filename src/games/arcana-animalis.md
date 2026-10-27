@@ -7,7 +7,7 @@ thumbnail: '/images/games/arcana_thumb.webp'
 thumbnailALT: 'Arcana Animalis'
 extURL: 'https://matteovera.itch.io/arcanaanimalis'
 blurb: 'Arcana Animalis'
-itch: '<a href="{{extURL}}" title="{{blurb}}" class="subtext itch">Play <i class="icon-itch"></i></a>'
+itch: '<a href="https://matteovera.itch.io/arcanaanimalis" target="_blank" class="subtext itch">Play <i class="icon-itch"></i></a>'
 ---
 <a href="/images/games/arcana_01.webp" target="_blank"><img src="/images/games/arcana_01.webp" alt="Arcana Animalis main menu"></a>
 <div class="flex-horizontal">

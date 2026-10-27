@@ -7,7 +7,7 @@ thumbnail: '/images/games/typing_thumb.webp'
 thumbnailALT: 'Thomas Teaches Touch Typing'
 extURL: 'https://matteovera.itch.io/thomas-teaches-touch-typing'
 blurb: "Learn how to type with Thomas the Turtle's 1 on 1 lessons"
-itch: '<a href="{{extURL}}" title="{{blurb}}" class="subtext itch">Play <i class="icon-itch"></i></a>'
+itch: '<a href="https://matteovera.itch.io/thomas-teaches-touch-typing" target="_blank" class="subtext itch">Play <i class="icon-itch"></i></a>'
 ---
 <a href="/images/games/typing_01.webp" target="_blank"><img src="/images/games/typing_01.webp" alt="Thomas Teaches Touch Typing Main Menu"></a>
 <div class="flex-horizontal">

@@ -7,7 +7,7 @@ thumbnail: '/images/games/getinked_thumb.webp'
 thumbnailALT: 'Get Inked!'
 extURL: 'https://pglick.itch.io/get-inked'
 blurb: 'FLASH SALE ALL TATTOOS IN 60 SEC OR LESS'
-itch: '<a href="{{extURL}}" title="{{blurb}}" class="subtext itch">Play <i class="icon-itch"></i></a>'
+itch: '<a href="https://pglick.itch.io/get-inked" target="_blank" class="subtext itch">Play <i class="icon-itch"></i></a>'
 ---
 <a href="/images/games/getinked_01.webp" target="_blank"><img src="/images/games/getinked_01.webp" alt="Get Inked! main menu"></a>
 

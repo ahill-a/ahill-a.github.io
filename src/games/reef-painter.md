@@ -7,7 +7,7 @@ thumbnail: '/images/games/reefpainter_thumb.webp'
 thumbnailALT: 'Reef Painter'
 extURL: 'https://raesuarez.itch.io/reef-painter'
 blurb: 'Help bring the temperature down to restore bleached corals.'
-itch: '<a href="{{extURL}}" title="{{blurb}}" class="subtext itch">Play <i class="icon-itch"></i></a>'
+itch: '<a href="https://raesuarez.itch.io/reef-painter" target="_blank" class="subtext itch">Play <i class="icon-itch"></i></a>'
 ---
 <a href="/images/games/reefpainter_01.webp" target="_blank"><img src="/images/games/reefpainter_01.webp" alt="Reef Painter gameplay"></a>
 

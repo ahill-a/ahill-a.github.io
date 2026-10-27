@@ -7,7 +7,7 @@ thumbnail: '/images/games/heroguild_thumb.webp'
 thumbnailALT: "How to Leave the Hero's Guild"
 extURL: 'https://ahill-a.itch.io/heroquit'
 blurb: 'If thou couldst just fill out one more form...'
-itch: '<a href="{{extURL}}" title="{{blurb}}" class="subtext itch">Play <i class="icon-itch"></i></a>'
+itch: '<a href="https://ahill-a.itch.io/heroquit" target="_blank" class="subtext itch">Play <i class="icon-itch"></i></a>'
 ---
 <a href="/images/games/heroguild_01.gif" target="_blank"><img src="/images/games/heroguild_01.gif" alt="How to Leave the Hero's Guild main menu"></a>
 

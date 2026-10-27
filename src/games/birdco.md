@@ -7,7 +7,7 @@ thumbnail: '/images/games/birdco_thumb.webp'
 thumbnailALT: 'Birdco'
 extURL: 'https://hotdogboris.itch.io/birdco'
 blurb: 'Bird company simulator where you work for birds alongside birds doing...something.'
-itch: '<a href="{{extURL}}" title="{{blurb}}" class="subtext itch">Play <i class="icon-itch"></i></a>'
+itch: '<a href="https://hotdogboris.itch.io/birdco" target="_blank" class="subtext itch">Play <i class="icon-itch"></i></a>'
 ---
 <a href="/images/games/birdco_01.webp" target="_blank"><img src="/images/games/birdco_01.webp" alt="Birdco main menu"></a>
 <div class="flex-horizontal">

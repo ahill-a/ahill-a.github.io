@@ -7,7 +7,7 @@ thumbnail: '/images/games/roadnot_thumb.webp'
 thumbnailALT: 'The Road Not Taken'
 extURL: 'https://ahill-a.itch.io/road'
 blurb: 'Forest Walking Simulator'
-itch: '<a href="{{extURL}}" title="{{blurb}}" class="subtext itch">Play <i class="icon-itch"></i></a>'
+itch: '<a href="https://ahill-a.itch.io/road" target="_blank" class="subtext itch">Play <i class="icon-itch"></i></a>'
 ---
 <a href="/images/games/roadnot_01.webp" target="_blank"><img src="/images/games/roadnot_01.webp" alt="Gameplay showing signpost"></a>
 

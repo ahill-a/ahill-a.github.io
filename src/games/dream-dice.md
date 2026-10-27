@@ -7,7 +7,7 @@ thumbnail: '/images/games/dreamdice_thumb.webp'
 thumbnailALT: 'Dream Dice Dungeon'
 extURL: 'https://matteovera.itch.io/dream-dice-dungeon'
 blurb: 'Turn based dice strategy'
-itch: '<a href="{{extURL}}" title="{{blurb}}" class="subtext itch">Play <i class="icon-itch"></i></a>'
+itch: '<a href="https://matteovera.itch.io/dream-dice-dungeon" target="_blank" class="subtext itch">Play <i class="icon-itch"></i></a>'
 ---
 <a href="/images/games/dreamdice_01.webp" target="_blank"><img src="/images/games/dreamdice_01.webp" alt="Dream Dice Dungeon main menu"></a>
 <div class="flex-horizontal">
