@@ -30,6 +30,7 @@ Dialogue/narrative and progression conditions.
 It was a challenge designing an experience that was annoying but not *too* annoying. I mitigated the "bad" kind of annoying by making sure each NPC was distinguishable even at such limited resolution and making sure the distance between each station wasn't too far. 
 
 The bulk of the design work centered around creating a coherent dialogue tree. I wrote out the general shape of the entire interaction (player vs guild) and color coded each speaker to make sure the overall story progressed without any loose ends.
+<a href="/images/games/heroguild_06.webp" target="_blank"><img src="/images/games/heroguild_06.webp" alt="Document screenshot showing part of the game dialogue with a color coded key."></a>
 
 ### Coding
 Taught myself LUA over the course of development. Scripts made by me include a state handler, player movement, and a dialogue handler. The actual dialog box drawing was done using a free to use script by Rusty Bailey.
