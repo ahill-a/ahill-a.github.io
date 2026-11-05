@@ -22,7 +22,7 @@ These three worlds are:
 - Meaning: on playing the game, the player creates meaning that is useful in the real world
 - Play: the game is still engaging, immersive, and fun
 
-Our class was priveleged to have feedback from an NOAA scientist as part of our development process. 
+Our class was privileged to have feedback from an NOAA scientist as part of our development process. 
 
 
 ## My roles:
