@@ -241,6 +241,7 @@ textarea{
 
 .card .imgbox {
     overflow: hidden;
+    aspect-ratio: 1.26/1;
 }
 
 .card > a > p {
